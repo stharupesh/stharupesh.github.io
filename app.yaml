@@ -1,0 +1,15 @@
+runtime: php55
+api_version: 1
+
+handlers:
+- url: /games
+  static_dir: games
+  
+- url: /assets
+  static_dir: assets
+
+- url: /packages
+  static_dir: packages
+
+- url: /.*
+  script: index.php

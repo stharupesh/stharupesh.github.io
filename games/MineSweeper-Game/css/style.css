@@ -1,0 +1,48 @@
+body {
+    font-family: century gothic;
+	font-weight: bold;
+	font-size: 15px;
+}
+
+h1 {
+     font-family: trebuchet ms; 
+	 font-size: 23px; 
+	 font-weight: bold; 
+	 color: #670794; 
+	 width: 100%; 
+}
+
+#map {
+    width: 150px;
+	height: 150px;
+	background-color: black;
+	border: 5px solid lightgrey;
+}
+
+#menu table tr td {
+     padding: 10px 0px; 
+	 font-family: century gothic; 
+	 font-size: 14px; 
+	 font-weight: bold;
+}
+
+#menu table tr td input {
+     width: 50px;
+	 border: none;
+	 disabled;
+}
+
+.btn {
+      background: url(../img/2.png)no-repeat;
+	  background-color: lightgrey;
+	  float: left;
+	  height: 25px;
+	  width: 25px;
+	  color: #000000;
+	  font-family: century gothic;
+	  font-size: 15px;
+	  font-weight: bold;
+	  text-align: center;
+}
+
+

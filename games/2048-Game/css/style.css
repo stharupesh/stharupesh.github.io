@@ -1,0 +1,27 @@
+h1	{
+	font-family: trebuchet ms;
+	font-size: 25px;
+	font-weight: bold;
+	color: #670794;
+	padding-bottom: 5px;
+	width: 550px;
+	border-bottom: 5px solid #670794;
+}
+
+#menu {
+	padding: 10px 0px;
+	font-family: century gothic;
+	font-size: 17px; font-weight: bold;
+}
+
+#menu tr td input {
+	font-family: century gothic;
+	font-size: 15px;
+	width: 150px;
+}
+
+.box {
+	font-weight: bold;
+	font-family: century gothic;
+	text-align: center;
+}

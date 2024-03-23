@@ -1,0 +1,19 @@
+h1 {
+     font-family: trebuchet ms; 
+	 font-size: 23px; 
+	 font-weight: bold; 
+	 color: #670794; 
+	 width: 100%; 
+}
+
+#pixelMap button {
+	height: 13px;
+	width: 13px;
+	border: 0px
+}
+
+#pixelMap {
+	height: 420px;
+	width: 420px;
+	border: 5px solid transparent;
+}

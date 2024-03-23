@@ -1,0 +1,24 @@
+h1  {
+	font-family: trebuchet ms;
+	font-size: 23px;
+    font-weight: bold;
+    color: #670794;
+    padding-bottom: 5px;
+    width: 520px;
+    border-bottom:4px solid #670794;
+}
+
+button {
+	width: 70px;
+	height: 70px;
+	margin-bottom: 4px;
+	margin-right: 4px;
+	font-size: 20;
+	font-weight: bold;
+}
+
+#buttonMap {
+	height: 218px;
+	width: 222px;
+	margin-top: 25px;
+}

@@ -1,0 +1,49 @@
+h1{
+	font-family: trebuchet ms;
+	font-size: 25px;
+	font-weight: bold;
+	color: #670794;
+	padding-bottom: 5px;
+	width: 550px;
+	border-bottom: 5px solid #670794;
+}
+
+#pixelMap button {
+	height: 17px;
+	width: 17px;
+	border: 1px solid white;
+	background-color: white;
+}
+
+#header {
+	font-family: 'trebuchet ms';
+	font-weight: bold;
+}
+
+#menu {
+	padding: 10px 0px;
+	font-family: century gothic;
+	font-size: 17px;
+	font-weight: bold;
+}
+
+#menu tr td input {
+	font-family: century gothic;
+	font-size: 15px;
+	width: 150px;
+}
+
+#pixelMap {
+	margin-top: -100px;
+	height: 400px;
+	width: 200px;
+	border: 5px solid transparent;
+	background-color: transparent;
+}
+
+#pixelMapOutline {
+	height: 340px;
+	width: 170px;
+	border: 5px solid black;
+	margin-top: -325px;
+}
