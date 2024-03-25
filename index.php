@@ -218,7 +218,7 @@
                 <h2 class="section-heading command-text"><b>About<span class="blinking-cursor">_</span></b></h2>
                 <div class="section-content">
                     <div class="col-md-6 col-sm-6">
-                        Highly motivated and passionate web application/hybrid mobile apps developer with more than 4 years of experience along with strong programming skills in multiple languages, and ability to learn new skills and technologies quickly. <br/><br/>
+                        Highly motivated and passionate web application/hybrid mobile apps developer with more than 7 years of experience along with strong programming skills in multiple languages, and ability to learn new skills and technologies quickly. <br/><br/>
                         I code programs in various languages, such as, C, C++, C#, Java, JavaScript, PHP, TypeScript and HTML & CSS. However, my personal vote goes to JavaScript due to its lightweight. I am also interested in developing games and would like to work as game developer. I have developed games in web, windows and windows phone platform using javascript, jquery, html, css and Unity 3D. <br/> <br/>
                         Some of my coding work is available on Github. &nbsp;
 
@@ -430,7 +430,7 @@
                             <div class="modal-body">
                                 <h2>Json Language Translator</h2>
                                 <img class="img-responsive center-block" src="assets/img/projects/jsontranslator.jpg" alt="">
-                                <p>This application can be used to generate dummy data while developing websites or apps which has multi-language features. It is useful when the words or phrases used in the website should be stored as list. I developed this application while I was working on a web app which should have multi-language feature. <a href="https://json-lang-translator.appspot.com/" target="_blank" class="command-text project-preview-link">Visit Site<span class="blinking-cursor">_</span></a></p>
+                                <p>This application can be used to generate dummy data while developing websites or apps which has multi-language features. It is useful when the words or phrases used in the website should be stored as list. I developed this application while I was working on a web app which should have multi-language feature. <a href="https://json-lang-translator.rupeshbabushrestha.com.np/" target="_blank" class="command-text project-preview-link">Visit Site<span class="blinking-cursor">_</span></a></p>
                                 
                             </div>
                         </div>
