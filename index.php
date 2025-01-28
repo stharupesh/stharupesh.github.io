@@ -218,9 +218,9 @@
                 <h2 class="section-heading command-text"><b>About<span class="blinking-cursor">_</span></b></h2>
                 <div class="section-content">
                     <div class="col-md-6 col-sm-6">
-                        Highly motivated and passionate web application/hybrid mobile apps developer with more than 7 years of experience along with strong programming skills in multiple languages, and ability to learn new skills and technologies quickly. <br/><br/>
-                        I code programs in various languages, such as, C, C++, C#, Java, JavaScript, PHP, TypeScript and HTML & CSS. However, my personal vote goes to JavaScript due to its lightweight. I am also interested in developing games and would like to work as game developer. I have developed games in web, windows and windows phone platform using javascript, jquery, html, css and Unity 3D. <br/> <br/>
-                        Some of my coding work is available on Github. &nbsp;
+                        With over 7 years of experience as a web application and hybrid mobile apps developer, I am highly motivated and passionate about leveraging technology to create impactful solutions. I possess strong programming skills across multiple languages and have a proven ability to quickly master new skills and technologies. <br/><br/>
+                        I am proficient in a variety of programming languages, including C, C++, C#, Java, JavaScript, PHP, TypeScript, and HTML & CSS, with a particular affinity for JavaScript due to its lightweight and versatile nature. My passion for technology extends to game development, where I aspire to further my career. I have developed games for web, Windows, and Windows Phone platforms using JavaScript, jQuery, HTML, CSS, and Unity 3D. <br/> <br/>
+                        Some of my coding work is available on GitHub.
 
                         <a href="https://github.com/stharupesh" target="_blank" class="btn btn-block btn-social btn-github">
                             <span class="fa fa-github"></span> Github
@@ -277,7 +277,10 @@
                             <div class="modal-body">
                                 <h2>One Accounting</h2>
                                 <img class="img-responsive center-block" src="assets/img/projects/accounting.jpg" alt="">
-                                <p>This software offers an integrated solutions for the Financial Accounting, Inventory Management, Accounts Payable, Accounts receivable, Vat Accounting and for today’s dynamic Business and Technological environment with Simplicity, Flexibility, Security and Reliability. <br/><br/> Demo Email: admin_demo@demo.com<br/> Demo Password: demodemo<br/><br/> <a href="https://accounting.rupeshbabushrestha.com.np" target="_blank" class="command-text project-preview-link">Visit Demo Site<span class="blinking-cursor">_</span></a></p>
+                                <p>
+                                    This software offers an integrated solutions for the Financial Accounting, Inventory Management, Accounts Payable, Accounts receivable, Vat Accounting and for today’s dynamic Business and Technological environment with Simplicity, Flexibility, Security and Reliability.
+<!--                                    <br/><br/> Demo Email: admin_demo@demo.com<br/> Demo Password: demodemo<br/><br/> <a href="https://accounting.rupeshbabushrestha.com.np" target="_blank" class="command-text project-preview-link">Visit Demo Site<span class="blinking-cursor">_</span></a>-->
+                                </p>
                                 
                             </div>
                         </div>
@@ -504,14 +507,14 @@
                         <div class="col-lg-8 center-block">
                             <div class="modal-body">
                                 <h2>Other Projects</h2>
-                                <p> 2048 Game:  <a href="https://rupesh-babu-shrestha.appspot.com/games/2048-Game/index.html" target="_blank" class="command-text project-preview-link">Visit Link<span class="blinking-cursor">_</span></a></p>
-                                <p> MineSweeper Game: <a href="https://rupesh-babu-shrestha.appspot.com/games/MineSweeper-Game/index.html" target="_blank" class="command-text project-preview-link">Visit Link<span class="blinking-cursor">_</span></a></p>
-                                <p> Puzzle Shuffle Game: <a href="https://rupesh-babu-shrestha.appspot.com/games/PuzzleShuffle-Game/index.html" target="_blank" class="command-text project-preview-link">Visit Link<span class="blinking-cursor">_</span></a></p>
-                                <p> Snake Game: <a href="https://rupesh-babu-shrestha.appspot.com/games/Snake-Game/index.html" target="_blank" class="command-text project-preview-link">Visit Link<span class="blinking-cursor">_</span></a></p>
-                                <p> Space Fight Game: <a href="https://rupesh-babu-shrestha.appspot.com/games/Space-Fight-Game/index.html" target="_blank" class="command-text project-preview-link">Visit Link<span class="blinking-cursor">_</span></a></p>
-                                <p> Tetris Game: <a href="https://rupesh-babu-shrestha.appspot.com/games/Tetris-Game/index.html" target="_blank" class="command-text project-preview-link">Visit Link<span class="blinking-cursor">_</span></a></p>
-                                <p> Tic Tac Toe Game: <a href="https://rupesh-babu-shrestha.appspot.com/games/TicTacToe-Game/index.html" target="_blank" class="command-text project-preview-link">Visit Link<span class="blinking-cursor">_</span></a></p>
-                                <p> Tic Tac Toe Game (AI Based) : <a href="https://rupesh-babu-shrestha.appspot.com/games/TicTacToe-AI-Based-Game/index.html" target="_blank" class="command-text project-preview-link">Visit Link<span class="blinking-cursor">_</span></a></p>
+                                <p> 2048 Game:  <a href="https://rupeshbabushrestha.com.np/games/2048-Game/index.html" target="_blank" class="command-text project-preview-link">Visit Link<span class="blinking-cursor">_</span></a></p>
+                                <p> MineSweeper Game: <a href="https://rupeshbabushrestha.com.np/games/MineSweeper-Game/index.html" target="_blank" class="command-text project-preview-link">Visit Link<span class="blinking-cursor">_</span></a></p>
+                                <p> Puzzle Shuffle Game: <a href="https://rupeshbabushrestha.com.np/games/PuzzleShuffle-Game/index.html" target="_blank" class="command-text project-preview-link">Visit Link<span class="blinking-cursor">_</span></a></p>
+                                <p> Snake Game: <a href="https://rupeshbabushrestha.com.np/games/Snake-Game/index.html" target="_blank" class="command-text project-preview-link">Visit Link<span class="blinking-cursor">_</span></a></p>
+                                <p> Space Fight Game: <a href="https://rupeshbabushrestha.com.np/games/Space-Fight-Game/index.html" target="_blank" class="command-text project-preview-link">Visit Link<span class="blinking-cursor">_</span></a></p>
+                                <p> Tetris Game: <a href="https://rupeshbabushrestha.com.np/games/Tetris-Game/index.html" target="_blank" class="command-text project-preview-link">Visit Link<span class="blinking-cursor">_</span></a></p>
+                                <p> Tic Tac Toe Game: <a href="https://rupeshbabushrestha.com.np/games/TicTacToe-Game/index.html" target="_blank" class="command-text project-preview-link">Visit Link<span class="blinking-cursor">_</span></a></p>
+                                <p> Tic Tac Toe Game (AI Based) : <a href="https://rupeshbabushrestha.com.np/games/TicTacToe-AI-Based-Game/index.html" target="_blank" class="command-text project-preview-link">Visit Link<span class="blinking-cursor">_</span></a></p>
                                 
                             </div>
                         </div>
